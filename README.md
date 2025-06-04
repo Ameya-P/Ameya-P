@@ -5,7 +5,7 @@ I am a rising junior at Oregon State University pursuing a second bachelor’s i
 
 ## 🚀 What I'm Up To
 
-- I'm building a website called Closet Curator as part of a mentorship program with Out in Tech. The app is built with HTML/CSS and JavaScript on the front end, Python on the backend, and deployed using Amazon Web Services. Closet Curator helps users discover their personal style by having them like or dislike clothing items through a swipe-based interface, then uses that input to give shopping suggestions, promoting both self-expression and sustainability.
+I'm building a website called Closet Curator as part of a mentorship program with Out in Tech. The app is built with HTML/CSS and JavaScript on the front end, Python on the backend, and deployed using Amazon Web Services. Closet Curator helps users discover their personal style by having them like or dislike clothing items through a swipe-based interface, then uses that input to give shopping suggestions, promoting both self-expression and sustainability.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameyaspatkar/)
