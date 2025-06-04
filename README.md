@@ -11,7 +11,7 @@ I'm building a website called Closet Curator as part of a mentorship program wit
 
 Closet Curator helps users discover their personal style by having them like or dislike clothing items through a swipe-based interface, then uses that input to give shopping suggestions, promoting both self-expression and sustainability.
 
-# 🌐 Connect with me:
+# 🌐 Connect With Me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ameyaspatkar/)
 
 # 💻 Tech Stack:
