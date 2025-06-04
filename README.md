@@ -33,4 +33,5 @@ Libraries and Frameworks:
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
+---
 *Badge Source: https://github.com/inttter/md-badges*
